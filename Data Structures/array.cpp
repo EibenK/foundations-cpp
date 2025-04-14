@@ -8,6 +8,9 @@ Notes for code review:
     - Add try and catch next steps
     - Add additional different types of resizable member functions
     - Use pointers/references instead of passing by value
+    - include git tagging (semantic versions)
+    - make use of header files
+    - abstraction/virtual functions for similiar datastructures 
 
 */
 
