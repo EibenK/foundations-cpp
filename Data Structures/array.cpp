@@ -10,7 +10,9 @@ Notes for code review:
     - Use pointers/references instead of passing by value
     - include git tagging (semantic versions)
     - make use of header files
-    - abstraction/virtual functions for similiar datastructures 
+    - abstraction/virtual functions for similiar datastructures
+    - comments explaining each function
+    - testing architecture
 
 */
 

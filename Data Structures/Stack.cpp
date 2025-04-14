@@ -13,6 +13,7 @@ Notes for code review:
     - abstraction/virtual functions for similiar datastructures(dequeues, circular, tailend,...)
     - operator overloading
     - comments explaining each function
+    - testing architecture
 */
 
 class Stack{
