@@ -10,5 +10,5 @@ modular design and real-world applicability.
 - Lay a modular groundwork for use in future technical projects and interview preparation
 
 # Weekly Commitment
-- Daily: One new data structure and algorithm implemented per day
+- Daily: One new data structure or algorithm implemented per day
 - Weekly Review: Refactor, optimize, and document implementations
