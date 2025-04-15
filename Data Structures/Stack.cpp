@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
-Creates a stack implementation in C++
+Creates a stack(LIFO) implementation in C++
 
 Notes for code review:
     - Add try and catch next steps
