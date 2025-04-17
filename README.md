@@ -9,6 +9,6 @@ modular design and real-world applicability.
 - Gain a deeper understanding of core data structures and algorithms by implementing them without relying on built-in datastructures 
 - Lay a modular groundwork for use in future technical projects and interview preparation
 
-# Weekly Commitment
-- Daily: One new data structure or algorithm implemented per day
+# Commitment
+- Try to implement one new data structure or algorithm per day
 - Weekly Review: Refactor, optimize, and document implementations
